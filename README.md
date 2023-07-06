@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sakibmahee" target="blank"><img src="https://i.giphy.com/media/H508mck9ufO9q6z76O/200w.webp" width="30"></a>
-<a href="https://fb.com/https://www.facebook.com/sadman26e" target="blank"><img src="https://i.giphy.com/media/pejyg6fy1JpoQuLQQp/200w.webp" width="30"></a>
+<a href="https://twitter.com/home" target="blank"><img src="https://i.giphy.com/media/H508mck9ufO9q6z76O/200w.webp" width="30"></a>
+<a href="https://fb.com/https://www.facebook.com/sabbir1919" target="blank"><img src="https://i.giphy.com/media/pejyg6fy1JpoQuLQQp/200w.webp" width="30"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
