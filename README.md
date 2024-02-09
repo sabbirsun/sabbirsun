@@ -5,7 +5,7 @@
 </p>
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Python,Flask,Firebase**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **sabbirulislamsun56@gmail.com**
 
